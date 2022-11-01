@@ -1,4 +1,4 @@
-프로필에 들어갈 리드미
+안녕하세요! 정혜교입니다.
 
 <!--
 **junghk0115/junghk0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
